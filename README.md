@@ -1,3 +1,3 @@
-# LoopLab Studio: Fusion PAC Essentials Support
+# LoopLab Studio: Fusion PAC Orbit Support
 
-Support for LoopLab Studio PAC Essentials for DaVinci Resolve Fusion.
+Support for LoopLab Studio PAC Orbit for DaVinci Resolve Fusion.
